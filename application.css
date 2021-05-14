@@ -274,9 +274,10 @@ h3 {
     text-shadow: 1px 1px 1px grey; /* Gives the text a more defined look */
 }
 
-.standard {
+.standard p, p.standard {
     color: #5c5b5b;
     font-size: 20px;
+    margin: 10px 0px;
 }
 
 .contact {
