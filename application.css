@@ -75,7 +75,7 @@ footer {
     
 }
 
-.link-logos { /* Changes the properties of the social media */
+.link-logos img { /* Changes the properties of the social media */
     width: 25px;
 }
 
@@ -224,7 +224,7 @@ h3 {
     max-width: 330px;
 }
 
-.about-text {
+.about-text p, p.about-text {
     margin: 20px 0px;
     font-size: 90%;
     max-width: 400px;
